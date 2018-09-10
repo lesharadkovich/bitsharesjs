@@ -63,7 +63,7 @@
         "event-emitter": "0.3.5",
         "immutable": "3.8.2",
         "safe-buffer": "^5.1.2",
-        "secure-random": "1.1.1"
+        "secure-random": "https://github.com/lesharadkovich/secure-random.git"
     },
     "devDependencies": {
         "assert": "^1.4.1",
